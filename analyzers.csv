@@ -1,0 +1,541 @@
+analyzer_id,analyzer_name,department,uptime_minutes,downtime_minutes,date
+A001,Sysmex XN-3000,Hematology,1440,0,2023-01-01
+A002,Sysmex XN-3000,Hematology,1440,0,2023-01-01
+A003,ACL TOP 350,Coagulation,1440,0,2023-01-01
+A004,Cobas 8000,Chemistry,1440,0,2023-01-01
+A005,Cobas 8000,Chemistry,1440,0,2023-01-01
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-01-01
+A001,Sysmex XN-3000,Hematology,1323,117,2023-01-02
+A002,Sysmex XN-3000,Hematology,1440,0,2023-01-02
+A003,ACL TOP 350,Coagulation,1440,0,2023-01-02
+A004,Cobas 8000,Chemistry,1440,0,2023-01-02
+A005,Cobas 8000,Chemistry,1323,117,2023-01-02
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-01-02
+A001,Sysmex XN-3000,Hematology,1440,0,2023-01-03
+A002,Sysmex XN-3000,Hematology,1440,0,2023-01-03
+A003,ACL TOP 350,Coagulation,1440,0,2023-01-03
+A004,Cobas 8000,Chemistry,1440,0,2023-01-03
+A005,Cobas 8000,Chemistry,1440,0,2023-01-03
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-01-03
+A001,Sysmex XN-3000,Hematology,1440,0,2023-01-04
+A002,Sysmex XN-3000,Hematology,1440,0,2023-01-04
+A003,ACL TOP 350,Coagulation,1440,0,2023-01-04
+A004,Cobas 8000,Chemistry,1440,0,2023-01-04
+A005,Cobas 8000,Chemistry,1440,0,2023-01-04
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-01-04
+A001,Sysmex XN-3000,Hematology,1440,0,2023-01-05
+A002,Sysmex XN-3000,Hematology,1440,0,2023-01-05
+A003,ACL TOP 350,Coagulation,1440,0,2023-01-05
+A004,Cobas 8000,Chemistry,1440,0,2023-01-05
+A005,Cobas 8000,Chemistry,1360,80,2023-01-05
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-01-05
+A001,Sysmex XN-3000,Hematology,1440,0,2023-01-06
+A002,Sysmex XN-3000,Hematology,1322,118,2023-01-06
+A003,ACL TOP 350,Coagulation,1440,0,2023-01-06
+A004,Cobas 8000,Chemistry,1440,0,2023-01-06
+A005,Cobas 8000,Chemistry,1440,0,2023-01-06
+A006,Cepheid GeneXpert,Microbiology,1327,113,2023-01-06
+A001,Sysmex XN-3000,Hematology,1440,0,2023-01-07
+A002,Sysmex XN-3000,Hematology,1440,0,2023-01-07
+A003,ACL TOP 350,Coagulation,1440,0,2023-01-07
+A004,Cobas 8000,Chemistry,1440,0,2023-01-07
+A005,Cobas 8000,Chemistry,1440,0,2023-01-07
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-01-07
+A001,Sysmex XN-3000,Hematology,1440,0,2023-01-08
+A002,Sysmex XN-3000,Hematology,1440,0,2023-01-08
+A003,ACL TOP 350,Coagulation,1440,0,2023-01-08
+A004,Cobas 8000,Chemistry,1440,0,2023-01-08
+A005,Cobas 8000,Chemistry,1440,0,2023-01-08
+A006,Cepheid GeneXpert,Microbiology,1265,175,2023-01-08
+A001,Sysmex XN-3000,Hematology,1440,0,2023-01-09
+A002,Sysmex XN-3000,Hematology,1440,0,2023-01-09
+A003,ACL TOP 350,Coagulation,1440,0,2023-01-09
+A004,Cobas 8000,Chemistry,1440,0,2023-01-09
+A005,Cobas 8000,Chemistry,1440,0,2023-01-09
+A006,Cepheid GeneXpert,Microbiology,1221,219,2023-01-09
+A001,Sysmex XN-3000,Hematology,1440,0,2023-01-10
+A002,Sysmex XN-3000,Hematology,1440,0,2023-01-10
+A003,ACL TOP 350,Coagulation,1440,0,2023-01-10
+A004,Cobas 8000,Chemistry,1440,0,2023-01-10
+A005,Cobas 8000,Chemistry,1440,0,2023-01-10
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-01-10
+A001,Sysmex XN-3000,Hematology,1440,0,2023-01-11
+A002,Sysmex XN-3000,Hematology,1440,0,2023-01-11
+A003,ACL TOP 350,Coagulation,1440,0,2023-01-11
+A004,Cobas 8000,Chemistry,1340,100,2023-01-11
+A005,Cobas 8000,Chemistry,1440,0,2023-01-11
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-01-11
+A001,Sysmex XN-3000,Hematology,1440,0,2023-01-12
+A002,Sysmex XN-3000,Hematology,1330,110,2023-01-12
+A003,ACL TOP 350,Coagulation,1440,0,2023-01-12
+A004,Cobas 8000,Chemistry,1440,0,2023-01-12
+A005,Cobas 8000,Chemistry,1440,0,2023-01-12
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-01-12
+A001,Sysmex XN-3000,Hematology,1440,0,2023-01-13
+A002,Sysmex XN-3000,Hematology,1440,0,2023-01-13
+A003,ACL TOP 350,Coagulation,1440,0,2023-01-13
+A004,Cobas 8000,Chemistry,1440,0,2023-01-13
+A005,Cobas 8000,Chemistry,1260,180,2023-01-13
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-01-13
+A001,Sysmex XN-3000,Hematology,1440,0,2023-01-14
+A002,Sysmex XN-3000,Hematology,1440,0,2023-01-14
+A003,ACL TOP 350,Coagulation,1440,0,2023-01-14
+A004,Cobas 8000,Chemistry,1440,0,2023-01-14
+A005,Cobas 8000,Chemistry,1440,0,2023-01-14
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-01-14
+A001,Sysmex XN-3000,Hematology,1440,0,2023-01-15
+A002,Sysmex XN-3000,Hematology,1440,0,2023-01-15
+A003,ACL TOP 350,Coagulation,1440,0,2023-01-15
+A004,Cobas 8000,Chemistry,1440,0,2023-01-15
+A005,Cobas 8000,Chemistry,1204,236,2023-01-15
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-01-15
+A001,Sysmex XN-3000,Hematology,1206,234,2023-01-16
+A002,Sysmex XN-3000,Hematology,1440,0,2023-01-16
+A003,ACL TOP 350,Coagulation,1440,0,2023-01-16
+A004,Cobas 8000,Chemistry,1440,0,2023-01-16
+A005,Cobas 8000,Chemistry,1440,0,2023-01-16
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-01-16
+A001,Sysmex XN-3000,Hematology,1440,0,2023-01-17
+A002,Sysmex XN-3000,Hematology,1440,0,2023-01-17
+A003,ACL TOP 350,Coagulation,1440,0,2023-01-17
+A004,Cobas 8000,Chemistry,1440,0,2023-01-17
+A005,Cobas 8000,Chemistry,1440,0,2023-01-17
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-01-17
+A001,Sysmex XN-3000,Hematology,1440,0,2023-01-18
+A002,Sysmex XN-3000,Hematology,1440,0,2023-01-18
+A003,ACL TOP 350,Coagulation,1440,0,2023-01-18
+A004,Cobas 8000,Chemistry,1440,0,2023-01-18
+A005,Cobas 8000,Chemistry,1440,0,2023-01-18
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-01-18
+A001,Sysmex XN-3000,Hematology,1440,0,2023-01-19
+A002,Sysmex XN-3000,Hematology,1440,0,2023-01-19
+A003,ACL TOP 350,Coagulation,1440,0,2023-01-19
+A004,Cobas 8000,Chemistry,1440,0,2023-01-19
+A005,Cobas 8000,Chemistry,1440,0,2023-01-19
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-01-19
+A001,Sysmex XN-3000,Hematology,1440,0,2023-01-20
+A002,Sysmex XN-3000,Hematology,1440,0,2023-01-20
+A003,ACL TOP 350,Coagulation,1440,0,2023-01-20
+A004,Cobas 8000,Chemistry,1206,234,2023-01-20
+A005,Cobas 8000,Chemistry,1440,0,2023-01-20
+A006,Cepheid GeneXpert,Microbiology,1211,229,2023-01-20
+A001,Sysmex XN-3000,Hematology,1440,0,2023-01-21
+A002,Sysmex XN-3000,Hematology,1440,0,2023-01-21
+A003,ACL TOP 350,Coagulation,1440,0,2023-01-21
+A004,Cobas 8000,Chemistry,1440,0,2023-01-21
+A005,Cobas 8000,Chemistry,1440,0,2023-01-21
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-01-21
+A001,Sysmex XN-3000,Hematology,1440,0,2023-01-22
+A002,Sysmex XN-3000,Hematology,1440,0,2023-01-22
+A003,ACL TOP 350,Coagulation,1440,0,2023-01-22
+A004,Cobas 8000,Chemistry,1225,215,2023-01-22
+A005,Cobas 8000,Chemistry,1440,0,2023-01-22
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-01-22
+A001,Sysmex XN-3000,Hematology,1440,0,2023-01-23
+A002,Sysmex XN-3000,Hematology,1440,0,2023-01-23
+A003,ACL TOP 350,Coagulation,1440,0,2023-01-23
+A004,Cobas 8000,Chemistry,1298,142,2023-01-23
+A005,Cobas 8000,Chemistry,1440,0,2023-01-23
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-01-23
+A001,Sysmex XN-3000,Hematology,1282,158,2023-01-24
+A002,Sysmex XN-3000,Hematology,1440,0,2023-01-24
+A003,ACL TOP 350,Coagulation,1440,0,2023-01-24
+A004,Cobas 8000,Chemistry,1440,0,2023-01-24
+A005,Cobas 8000,Chemistry,1440,0,2023-01-24
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-01-24
+A001,Sysmex XN-3000,Hematology,1440,0,2023-01-25
+A002,Sysmex XN-3000,Hematology,1440,0,2023-01-25
+A003,ACL TOP 350,Coagulation,1440,0,2023-01-25
+A004,Cobas 8000,Chemistry,1440,0,2023-01-25
+A005,Cobas 8000,Chemistry,1440,0,2023-01-25
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-01-25
+A001,Sysmex XN-3000,Hematology,1440,0,2023-01-26
+A002,Sysmex XN-3000,Hematology,1440,0,2023-01-26
+A003,ACL TOP 350,Coagulation,1314,126,2023-01-26
+A004,Cobas 8000,Chemistry,1440,0,2023-01-26
+A005,Cobas 8000,Chemistry,1440,0,2023-01-26
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-01-26
+A001,Sysmex XN-3000,Hematology,1440,0,2023-01-27
+A002,Sysmex XN-3000,Hematology,1440,0,2023-01-27
+A003,ACL TOP 350,Coagulation,1440,0,2023-01-27
+A004,Cobas 8000,Chemistry,1440,0,2023-01-27
+A005,Cobas 8000,Chemistry,1440,0,2023-01-27
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-01-27
+A001,Sysmex XN-3000,Hematology,1250,190,2023-01-28
+A002,Sysmex XN-3000,Hematology,1440,0,2023-01-28
+A003,ACL TOP 350,Coagulation,1440,0,2023-01-28
+A004,Cobas 8000,Chemistry,1440,0,2023-01-28
+A005,Cobas 8000,Chemistry,1440,0,2023-01-28
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-01-28
+A001,Sysmex XN-3000,Hematology,1440,0,2023-01-29
+A002,Sysmex XN-3000,Hematology,1440,0,2023-01-29
+A003,ACL TOP 350,Coagulation,1440,0,2023-01-29
+A004,Cobas 8000,Chemistry,1440,0,2023-01-29
+A005,Cobas 8000,Chemistry,1440,0,2023-01-29
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-01-29
+A001,Sysmex XN-3000,Hematology,1440,0,2023-01-30
+A002,Sysmex XN-3000,Hematology,1440,0,2023-01-30
+A003,ACL TOP 350,Coagulation,1440,0,2023-01-30
+A004,Cobas 8000,Chemistry,1440,0,2023-01-30
+A005,Cobas 8000,Chemistry,1440,0,2023-01-30
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-01-30
+A001,Sysmex XN-3000,Hematology,1440,0,2023-01-31
+A002,Sysmex XN-3000,Hematology,1440,0,2023-01-31
+A003,ACL TOP 350,Coagulation,1440,0,2023-01-31
+A004,Cobas 8000,Chemistry,1440,0,2023-01-31
+A005,Cobas 8000,Chemistry,1440,0,2023-01-31
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-01-31
+A001,Sysmex XN-3000,Hematology,1440,0,2023-02-01
+A002,Sysmex XN-3000,Hematology,1440,0,2023-02-01
+A003,ACL TOP 350,Coagulation,1440,0,2023-02-01
+A004,Cobas 8000,Chemistry,1440,0,2023-02-01
+A005,Cobas 8000,Chemistry,1440,0,2023-02-01
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-02-01
+A001,Sysmex XN-3000,Hematology,1440,0,2023-02-02
+A002,Sysmex XN-3000,Hematology,1440,0,2023-02-02
+A003,ACL TOP 350,Coagulation,1440,0,2023-02-02
+A004,Cobas 8000,Chemistry,1440,0,2023-02-02
+A005,Cobas 8000,Chemistry,1440,0,2023-02-02
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-02-02
+A001,Sysmex XN-3000,Hematology,1440,0,2023-02-03
+A002,Sysmex XN-3000,Hematology,1440,0,2023-02-03
+A003,ACL TOP 350,Coagulation,1440,0,2023-02-03
+A004,Cobas 8000,Chemistry,1269,171,2023-02-03
+A005,Cobas 8000,Chemistry,1440,0,2023-02-03
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-02-03
+A001,Sysmex XN-3000,Hematology,1440,0,2023-02-04
+A002,Sysmex XN-3000,Hematology,1440,0,2023-02-04
+A003,ACL TOP 350,Coagulation,1440,0,2023-02-04
+A004,Cobas 8000,Chemistry,1440,0,2023-02-04
+A005,Cobas 8000,Chemistry,1296,144,2023-02-04
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-02-04
+A001,Sysmex XN-3000,Hematology,1440,0,2023-02-05
+A002,Sysmex XN-3000,Hematology,1440,0,2023-02-05
+A003,ACL TOP 350,Coagulation,1440,0,2023-02-05
+A004,Cobas 8000,Chemistry,1440,0,2023-02-05
+A005,Cobas 8000,Chemistry,1440,0,2023-02-05
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-02-05
+A001,Sysmex XN-3000,Hematology,1440,0,2023-02-06
+A002,Sysmex XN-3000,Hematology,1440,0,2023-02-06
+A003,ACL TOP 350,Coagulation,1440,0,2023-02-06
+A004,Cobas 8000,Chemistry,1440,0,2023-02-06
+A005,Cobas 8000,Chemistry,1440,0,2023-02-06
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-02-06
+A001,Sysmex XN-3000,Hematology,1440,0,2023-02-07
+A002,Sysmex XN-3000,Hematology,1440,0,2023-02-07
+A003,ACL TOP 350,Coagulation,1239,201,2023-02-07
+A004,Cobas 8000,Chemistry,1440,0,2023-02-07
+A005,Cobas 8000,Chemistry,1440,0,2023-02-07
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-02-07
+A001,Sysmex XN-3000,Hematology,1440,0,2023-02-08
+A002,Sysmex XN-3000,Hematology,1387,53,2023-02-08
+A003,ACL TOP 350,Coagulation,1440,0,2023-02-08
+A004,Cobas 8000,Chemistry,1440,0,2023-02-08
+A005,Cobas 8000,Chemistry,1440,0,2023-02-08
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-02-08
+A001,Sysmex XN-3000,Hematology,1251,189,2023-02-09
+A002,Sysmex XN-3000,Hematology,1440,0,2023-02-09
+A003,ACL TOP 350,Coagulation,1440,0,2023-02-09
+A004,Cobas 8000,Chemistry,1440,0,2023-02-09
+A005,Cobas 8000,Chemistry,1440,0,2023-02-09
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-02-09
+A001,Sysmex XN-3000,Hematology,1440,0,2023-02-10
+A002,Sysmex XN-3000,Hematology,1440,0,2023-02-10
+A003,ACL TOP 350,Coagulation,1379,61,2023-02-10
+A004,Cobas 8000,Chemistry,1440,0,2023-02-10
+A005,Cobas 8000,Chemistry,1440,0,2023-02-10
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-02-10
+A001,Sysmex XN-3000,Hematology,1440,0,2023-02-11
+A002,Sysmex XN-3000,Hematology,1440,0,2023-02-11
+A003,ACL TOP 350,Coagulation,1440,0,2023-02-11
+A004,Cobas 8000,Chemistry,1440,0,2023-02-11
+A005,Cobas 8000,Chemistry,1440,0,2023-02-11
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-02-11
+A001,Sysmex XN-3000,Hematology,1440,0,2023-02-12
+A002,Sysmex XN-3000,Hematology,1440,0,2023-02-12
+A003,ACL TOP 350,Coagulation,1440,0,2023-02-12
+A004,Cobas 8000,Chemistry,1440,0,2023-02-12
+A005,Cobas 8000,Chemistry,1276,164,2023-02-12
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-02-12
+A001,Sysmex XN-3000,Hematology,1440,0,2023-02-13
+A002,Sysmex XN-3000,Hematology,1440,0,2023-02-13
+A003,ACL TOP 350,Coagulation,1440,0,2023-02-13
+A004,Cobas 8000,Chemistry,1440,0,2023-02-13
+A005,Cobas 8000,Chemistry,1440,0,2023-02-13
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-02-13
+A001,Sysmex XN-3000,Hematology,1440,0,2023-02-14
+A002,Sysmex XN-3000,Hematology,1220,220,2023-02-14
+A003,ACL TOP 350,Coagulation,1258,182,2023-02-14
+A004,Cobas 8000,Chemistry,1440,0,2023-02-14
+A005,Cobas 8000,Chemistry,1440,0,2023-02-14
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-02-14
+A001,Sysmex XN-3000,Hematology,1440,0,2023-02-15
+A002,Sysmex XN-3000,Hematology,1440,0,2023-02-15
+A003,ACL TOP 350,Coagulation,1396,44,2023-02-15
+A004,Cobas 8000,Chemistry,1440,0,2023-02-15
+A005,Cobas 8000,Chemistry,1440,0,2023-02-15
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-02-15
+A001,Sysmex XN-3000,Hematology,1440,0,2023-02-16
+A002,Sysmex XN-3000,Hematology,1440,0,2023-02-16
+A003,ACL TOP 350,Coagulation,1440,0,2023-02-16
+A004,Cobas 8000,Chemistry,1302,138,2023-02-16
+A005,Cobas 8000,Chemistry,1440,0,2023-02-16
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-02-16
+A001,Sysmex XN-3000,Hematology,1440,0,2023-02-17
+A002,Sysmex XN-3000,Hematology,1440,0,2023-02-17
+A003,ACL TOP 350,Coagulation,1440,0,2023-02-17
+A004,Cobas 8000,Chemistry,1440,0,2023-02-17
+A005,Cobas 8000,Chemistry,1440,0,2023-02-17
+A006,Cepheid GeneXpert,Microbiology,1291,149,2023-02-17
+A001,Sysmex XN-3000,Hematology,1440,0,2023-02-18
+A002,Sysmex XN-3000,Hematology,1440,0,2023-02-18
+A003,ACL TOP 350,Coagulation,1294,146,2023-02-18
+A004,Cobas 8000,Chemistry,1284,156,2023-02-18
+A005,Cobas 8000,Chemistry,1440,0,2023-02-18
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-02-18
+A001,Sysmex XN-3000,Hematology,1440,0,2023-02-19
+A002,Sysmex XN-3000,Hematology,1440,0,2023-02-19
+A003,ACL TOP 350,Coagulation,1440,0,2023-02-19
+A004,Cobas 8000,Chemistry,1440,0,2023-02-19
+A005,Cobas 8000,Chemistry,1440,0,2023-02-19
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-02-19
+A001,Sysmex XN-3000,Hematology,1440,0,2023-02-20
+A002,Sysmex XN-3000,Hematology,1440,0,2023-02-20
+A003,ACL TOP 350,Coagulation,1440,0,2023-02-20
+A004,Cobas 8000,Chemistry,1440,0,2023-02-20
+A005,Cobas 8000,Chemistry,1440,0,2023-02-20
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-02-20
+A001,Sysmex XN-3000,Hematology,1440,0,2023-02-21
+A002,Sysmex XN-3000,Hematology,1440,0,2023-02-21
+A003,ACL TOP 350,Coagulation,1440,0,2023-02-21
+A004,Cobas 8000,Chemistry,1205,235,2023-02-21
+A005,Cobas 8000,Chemistry,1364,76,2023-02-21
+A006,Cepheid GeneXpert,Microbiology,1221,219,2023-02-21
+A001,Sysmex XN-3000,Hematology,1440,0,2023-02-22
+A002,Sysmex XN-3000,Hematology,1440,0,2023-02-22
+A003,ACL TOP 350,Coagulation,1235,205,2023-02-22
+A004,Cobas 8000,Chemistry,1440,0,2023-02-22
+A005,Cobas 8000,Chemistry,1440,0,2023-02-22
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-02-22
+A001,Sysmex XN-3000,Hematology,1440,0,2023-02-23
+A002,Sysmex XN-3000,Hematology,1342,98,2023-02-23
+A003,ACL TOP 350,Coagulation,1440,0,2023-02-23
+A004,Cobas 8000,Chemistry,1440,0,2023-02-23
+A005,Cobas 8000,Chemistry,1264,176,2023-02-23
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-02-23
+A001,Sysmex XN-3000,Hematology,1440,0,2023-02-24
+A002,Sysmex XN-3000,Hematology,1440,0,2023-02-24
+A003,ACL TOP 350,Coagulation,1440,0,2023-02-24
+A004,Cobas 8000,Chemistry,1409,31,2023-02-24
+A005,Cobas 8000,Chemistry,1283,157,2023-02-24
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-02-24
+A001,Sysmex XN-3000,Hematology,1440,0,2023-02-25
+A002,Sysmex XN-3000,Hematology,1440,0,2023-02-25
+A003,ACL TOP 350,Coagulation,1440,0,2023-02-25
+A004,Cobas 8000,Chemistry,1440,0,2023-02-25
+A005,Cobas 8000,Chemistry,1440,0,2023-02-25
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-02-25
+A001,Sysmex XN-3000,Hematology,1440,0,2023-02-26
+A002,Sysmex XN-3000,Hematology,1440,0,2023-02-26
+A003,ACL TOP 350,Coagulation,1440,0,2023-02-26
+A004,Cobas 8000,Chemistry,1440,0,2023-02-26
+A005,Cobas 8000,Chemistry,1440,0,2023-02-26
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-02-26
+A001,Sysmex XN-3000,Hematology,1440,0,2023-02-27
+A002,Sysmex XN-3000,Hematology,1376,64,2023-02-27
+A003,ACL TOP 350,Coagulation,1440,0,2023-02-27
+A004,Cobas 8000,Chemistry,1440,0,2023-02-27
+A005,Cobas 8000,Chemistry,1440,0,2023-02-27
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-02-27
+A001,Sysmex XN-3000,Hematology,1440,0,2023-02-28
+A002,Sysmex XN-3000,Hematology,1440,0,2023-02-28
+A003,ACL TOP 350,Coagulation,1440,0,2023-02-28
+A004,Cobas 8000,Chemistry,1440,0,2023-02-28
+A005,Cobas 8000,Chemistry,1440,0,2023-02-28
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-02-28
+A001,Sysmex XN-3000,Hematology,1390,50,2023-03-01
+A002,Sysmex XN-3000,Hematology,1440,0,2023-03-01
+A003,ACL TOP 350,Coagulation,1440,0,2023-03-01
+A004,Cobas 8000,Chemistry,1440,0,2023-03-01
+A005,Cobas 8000,Chemistry,1440,0,2023-03-01
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-03-01
+A001,Sysmex XN-3000,Hematology,1440,0,2023-03-02
+A002,Sysmex XN-3000,Hematology,1440,0,2023-03-02
+A003,ACL TOP 350,Coagulation,1440,0,2023-03-02
+A004,Cobas 8000,Chemistry,1440,0,2023-03-02
+A005,Cobas 8000,Chemistry,1440,0,2023-03-02
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-03-02
+A001,Sysmex XN-3000,Hematology,1440,0,2023-03-03
+A002,Sysmex XN-3000,Hematology,1440,0,2023-03-03
+A003,ACL TOP 350,Coagulation,1440,0,2023-03-03
+A004,Cobas 8000,Chemistry,1440,0,2023-03-03
+A005,Cobas 8000,Chemistry,1440,0,2023-03-03
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-03-03
+A001,Sysmex XN-3000,Hematology,1440,0,2023-03-04
+A002,Sysmex XN-3000,Hematology,1440,0,2023-03-04
+A003,ACL TOP 350,Coagulation,1440,0,2023-03-04
+A004,Cobas 8000,Chemistry,1311,129,2023-03-04
+A005,Cobas 8000,Chemistry,1264,176,2023-03-04
+A006,Cepheid GeneXpert,Microbiology,1212,228,2023-03-04
+A001,Sysmex XN-3000,Hematology,1440,0,2023-03-05
+A002,Sysmex XN-3000,Hematology,1440,0,2023-03-05
+A003,ACL TOP 350,Coagulation,1440,0,2023-03-05
+A004,Cobas 8000,Chemistry,1440,0,2023-03-05
+A005,Cobas 8000,Chemistry,1342,98,2023-03-05
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-03-05
+A001,Sysmex XN-3000,Hematology,1440,0,2023-03-06
+A002,Sysmex XN-3000,Hematology,1440,0,2023-03-06
+A003,ACL TOP 350,Coagulation,1440,0,2023-03-06
+A004,Cobas 8000,Chemistry,1440,0,2023-03-06
+A005,Cobas 8000,Chemistry,1440,0,2023-03-06
+A006,Cepheid GeneXpert,Microbiology,1369,71,2023-03-06
+A001,Sysmex XN-3000,Hematology,1440,0,2023-03-07
+A002,Sysmex XN-3000,Hematology,1440,0,2023-03-07
+A003,ACL TOP 350,Coagulation,1248,192,2023-03-07
+A004,Cobas 8000,Chemistry,1440,0,2023-03-07
+A005,Cobas 8000,Chemistry,1440,0,2023-03-07
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-03-07
+A001,Sysmex XN-3000,Hematology,1440,0,2023-03-08
+A002,Sysmex XN-3000,Hematology,1440,0,2023-03-08
+A003,ACL TOP 350,Coagulation,1440,0,2023-03-08
+A004,Cobas 8000,Chemistry,1440,0,2023-03-08
+A005,Cobas 8000,Chemistry,1270,170,2023-03-08
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-03-08
+A001,Sysmex XN-3000,Hematology,1440,0,2023-03-09
+A002,Sysmex XN-3000,Hematology,1440,0,2023-03-09
+A003,ACL TOP 350,Coagulation,1440,0,2023-03-09
+A004,Cobas 8000,Chemistry,1440,0,2023-03-09
+A005,Cobas 8000,Chemistry,1440,0,2023-03-09
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-03-09
+A001,Sysmex XN-3000,Hematology,1440,0,2023-03-10
+A002,Sysmex XN-3000,Hematology,1440,0,2023-03-10
+A003,ACL TOP 350,Coagulation,1440,0,2023-03-10
+A004,Cobas 8000,Chemistry,1440,0,2023-03-10
+A005,Cobas 8000,Chemistry,1440,0,2023-03-10
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-03-10
+A001,Sysmex XN-3000,Hematology,1440,0,2023-03-11
+A002,Sysmex XN-3000,Hematology,1440,0,2023-03-11
+A003,ACL TOP 350,Coagulation,1440,0,2023-03-11
+A004,Cobas 8000,Chemistry,1440,0,2023-03-11
+A005,Cobas 8000,Chemistry,1440,0,2023-03-11
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-03-11
+A001,Sysmex XN-3000,Hematology,1440,0,2023-03-12
+A002,Sysmex XN-3000,Hematology,1440,0,2023-03-12
+A003,ACL TOP 350,Coagulation,1440,0,2023-03-12
+A004,Cobas 8000,Chemistry,1440,0,2023-03-12
+A005,Cobas 8000,Chemistry,1440,0,2023-03-12
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-03-12
+A001,Sysmex XN-3000,Hematology,1440,0,2023-03-13
+A002,Sysmex XN-3000,Hematology,1440,0,2023-03-13
+A003,ACL TOP 350,Coagulation,1440,0,2023-03-13
+A004,Cobas 8000,Chemistry,1440,0,2023-03-13
+A005,Cobas 8000,Chemistry,1440,0,2023-03-13
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-03-13
+A001,Sysmex XN-3000,Hematology,1250,190,2023-03-14
+A002,Sysmex XN-3000,Hematology,1440,0,2023-03-14
+A003,ACL TOP 350,Coagulation,1440,0,2023-03-14
+A004,Cobas 8000,Chemistry,1251,189,2023-03-14
+A005,Cobas 8000,Chemistry,1440,0,2023-03-14
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-03-14
+A001,Sysmex XN-3000,Hematology,1208,232,2023-03-15
+A002,Sysmex XN-3000,Hematology,1440,0,2023-03-15
+A003,ACL TOP 350,Coagulation,1440,0,2023-03-15
+A004,Cobas 8000,Chemistry,1440,0,2023-03-15
+A005,Cobas 8000,Chemistry,1364,76,2023-03-15
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-03-15
+A001,Sysmex XN-3000,Hematology,1440,0,2023-03-16
+A002,Sysmex XN-3000,Hematology,1440,0,2023-03-16
+A003,ACL TOP 350,Coagulation,1440,0,2023-03-16
+A004,Cobas 8000,Chemistry,1440,0,2023-03-16
+A005,Cobas 8000,Chemistry,1440,0,2023-03-16
+A006,Cepheid GeneXpert,Microbiology,1399,41,2023-03-16
+A001,Sysmex XN-3000,Hematology,1440,0,2023-03-17
+A002,Sysmex XN-3000,Hematology,1309,131,2023-03-17
+A003,ACL TOP 350,Coagulation,1440,0,2023-03-17
+A004,Cobas 8000,Chemistry,1440,0,2023-03-17
+A005,Cobas 8000,Chemistry,1440,0,2023-03-17
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-03-17
+A001,Sysmex XN-3000,Hematology,1440,0,2023-03-18
+A002,Sysmex XN-3000,Hematology,1440,0,2023-03-18
+A003,ACL TOP 350,Coagulation,1440,0,2023-03-18
+A004,Cobas 8000,Chemistry,1370,70,2023-03-18
+A005,Cobas 8000,Chemistry,1440,0,2023-03-18
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-03-18
+A001,Sysmex XN-3000,Hematology,1210,230,2023-03-19
+A002,Sysmex XN-3000,Hematology,1440,0,2023-03-19
+A003,ACL TOP 350,Coagulation,1440,0,2023-03-19
+A004,Cobas 8000,Chemistry,1440,0,2023-03-19
+A005,Cobas 8000,Chemistry,1440,0,2023-03-19
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-03-19
+A001,Sysmex XN-3000,Hematology,1440,0,2023-03-20
+A002,Sysmex XN-3000,Hematology,1440,0,2023-03-20
+A003,ACL TOP 350,Coagulation,1440,0,2023-03-20
+A004,Cobas 8000,Chemistry,1440,0,2023-03-20
+A005,Cobas 8000,Chemistry,1440,0,2023-03-20
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-03-20
+A001,Sysmex XN-3000,Hematology,1440,0,2023-03-21
+A002,Sysmex XN-3000,Hematology,1292,148,2023-03-21
+A003,ACL TOP 350,Coagulation,1440,0,2023-03-21
+A004,Cobas 8000,Chemistry,1440,0,2023-03-21
+A005,Cobas 8000,Chemistry,1440,0,2023-03-21
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-03-21
+A001,Sysmex XN-3000,Hematology,1440,0,2023-03-22
+A002,Sysmex XN-3000,Hematology,1440,0,2023-03-22
+A003,ACL TOP 350,Coagulation,1440,0,2023-03-22
+A004,Cobas 8000,Chemistry,1440,0,2023-03-22
+A005,Cobas 8000,Chemistry,1440,0,2023-03-22
+A006,Cepheid GeneXpert,Microbiology,1306,134,2023-03-22
+A001,Sysmex XN-3000,Hematology,1440,0,2023-03-23
+A002,Sysmex XN-3000,Hematology,1440,0,2023-03-23
+A003,ACL TOP 350,Coagulation,1405,35,2023-03-23
+A004,Cobas 8000,Chemistry,1440,0,2023-03-23
+A005,Cobas 8000,Chemistry,1440,0,2023-03-23
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-03-23
+A001,Sysmex XN-3000,Hematology,1440,0,2023-03-24
+A002,Sysmex XN-3000,Hematology,1440,0,2023-03-24
+A003,ACL TOP 350,Coagulation,1440,0,2023-03-24
+A004,Cobas 8000,Chemistry,1440,0,2023-03-24
+A005,Cobas 8000,Chemistry,1440,0,2023-03-24
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-03-24
+A001,Sysmex XN-3000,Hematology,1440,0,2023-03-25
+A002,Sysmex XN-3000,Hematology,1440,0,2023-03-25
+A003,ACL TOP 350,Coagulation,1440,0,2023-03-25
+A004,Cobas 8000,Chemistry,1440,0,2023-03-25
+A005,Cobas 8000,Chemistry,1440,0,2023-03-25
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-03-25
+A001,Sysmex XN-3000,Hematology,1316,124,2023-03-26
+A002,Sysmex XN-3000,Hematology,1440,0,2023-03-26
+A003,ACL TOP 350,Coagulation,1440,0,2023-03-26
+A004,Cobas 8000,Chemistry,1440,0,2023-03-26
+A005,Cobas 8000,Chemistry,1440,0,2023-03-26
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-03-26
+A001,Sysmex XN-3000,Hematology,1440,0,2023-03-27
+A002,Sysmex XN-3000,Hematology,1440,0,2023-03-27
+A003,ACL TOP 350,Coagulation,1440,0,2023-03-27
+A004,Cobas 8000,Chemistry,1440,0,2023-03-27
+A005,Cobas 8000,Chemistry,1440,0,2023-03-27
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-03-27
+A001,Sysmex XN-3000,Hematology,1204,236,2023-03-28
+A002,Sysmex XN-3000,Hematology,1440,0,2023-03-28
+A003,ACL TOP 350,Coagulation,1440,0,2023-03-28
+A004,Cobas 8000,Chemistry,1440,0,2023-03-28
+A005,Cobas 8000,Chemistry,1440,0,2023-03-28
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-03-28
+A001,Sysmex XN-3000,Hematology,1440,0,2023-03-29
+A002,Sysmex XN-3000,Hematology,1440,0,2023-03-29
+A003,ACL TOP 350,Coagulation,1440,0,2023-03-29
+A004,Cobas 8000,Chemistry,1440,0,2023-03-29
+A005,Cobas 8000,Chemistry,1359,81,2023-03-29
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-03-29
+A001,Sysmex XN-3000,Hematology,1440,0,2023-03-30
+A002,Sysmex XN-3000,Hematology,1440,0,2023-03-30
+A003,ACL TOP 350,Coagulation,1440,0,2023-03-30
+A004,Cobas 8000,Chemistry,1440,0,2023-03-30
+A005,Cobas 8000,Chemistry,1440,0,2023-03-30
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-03-30
+A001,Sysmex XN-3000,Hematology,1440,0,2023-03-31
+A002,Sysmex XN-3000,Hematology,1440,0,2023-03-31
+A003,ACL TOP 350,Coagulation,1440,0,2023-03-31
+A004,Cobas 8000,Chemistry,1342,98,2023-03-31
+A005,Cobas 8000,Chemistry,1440,0,2023-03-31
+A006,Cepheid GeneXpert,Microbiology,1440,0,2023-03-31
