@@ -18,7 +18,7 @@ I worked with four primary datasets simulating real-world Laboratory Information
 *   **`staffing_schedule.csv`**: Shift data for 20 lab staff members.
 *   **`qc_events.csv`**: Quality Control pass/fail logs.
 
-![Data Model](https://via.placeholder.com/800x400?text=Entity+Relationship+Diagram)
+![Data Model](data_model_diagram.png)
 
 ## Methodology
 
