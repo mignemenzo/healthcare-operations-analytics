@@ -24,7 +24,10 @@ I worked with four primary datasets simulating real-world Laboratory Information
 
 ### 1. Data Cleaning (SQL)
 I started by standardizing the raw data. Common issues included duplicate entries from re-runs and inconsistent department naming conventions (e.g., "Hem" vs. "Hematology").
-*   *See `01_cleaning.sql` for the full cleaning script.*
+*   See 01_cleaning.sql — a placeholder script included in the starter project structure.
+
+
+
 
 ### 2. Analysis & Feature Engineering
 I calculated key performance metrics such as:
